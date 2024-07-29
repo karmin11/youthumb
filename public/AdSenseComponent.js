@@ -9,9 +9,9 @@ const AdSenseComponent = () => {
     <div>
       <ins className="adsbygoogle"
            style={{ display: 'block' }}
-           data-ad-client="ca-pub-xxxxxxxxxxxxxxxx"
-           data-ad-slot="xxxxxxxxxx"
-           data-ad-format="auto"
+           data-ad-client=" pub-8380561117524549"
+           data-ad-slot="f08c47fec0942fa0"
+           data-ad-format="DIRECT"
            data-full-width-responsive="true"></ins>
     </div>
   );
